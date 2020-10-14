@@ -1,0 +1,6 @@
+References:
+https://www.analyticsvidhya.com/blog/2015/06/tuning-random-forest-model/
+This reference helped me realize what parameters to mess with to optimaize my model. mainly it was the n_estimators, min_samples_leaf, and max_features. 
+
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+This referenece helped me see all the parameters and details about the Random Forest Regressor.
